@@ -7,9 +7,10 @@
 .DS_Store
 **/.DS_Store
 
-# dfx temporary files
-.dfx/
 
 # frontend code
 node_modules/
 bin/
+
+# environment data
+.env
