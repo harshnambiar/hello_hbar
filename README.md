@@ -11,3 +11,6 @@ Steps to Reuse:
 => in the .env file, set OPERATOR_ID and OPERATOR_PVKEY as found in your hedera testnet account
 
 => node index.js
+
+
+NOTE: The code is based on the tutorial on the official GitHub account of Hedera.
